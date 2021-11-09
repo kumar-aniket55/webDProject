@@ -93,7 +93,7 @@ width: 100%;
     
 }
 body{
-    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),  url("image/sportsBG.png");
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),  url("sportsBG.png");
     background-size: cover;
 }
 .inputBox::placeholder{
