@@ -93,7 +93,7 @@ width: 100%;
     
 }
 body{
-    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),  url("image/vcBG2.jpg");
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),  url("vcBG2.jpg");
     background-size: cover;
 }
 .inputBox::placeholder{
